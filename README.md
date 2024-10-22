@@ -1,3 +1,8 @@
+The github link below is the original github file for the filesystem using fat 32 group project. 
+https://github.com/CSC415-2022-Spring/csc415-filesystem-RINO-GAELICO
+
+
+
 # CSC415 Group Term Assignment - File System
 
 This is a GROUP assignment written in C.  Only one person on the team needs to submit the project.
